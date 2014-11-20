@@ -1,0 +1,3 @@
+Broadcast Message: true
+Broadcast Mute Message: "The chat has been muted by %playername%"
+Broadcast Unmute Message: "The chat has been un-muted by %playername%"

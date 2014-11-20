@@ -1,0 +1,15 @@
+name: MuteAll
+description: MuteAll
+main: com.connorlinfoot.muteall.MuteAll
+version: 1.0-SNAPSHOT
+authors: [Connor Linfoot]
+commands:
+  muteall:
+    description: MuteAll command
+permissions:
+  muteall.bypass:
+    default: op
+  muteall.use:
+    default: op
+  muteall.reload:
+    default: op
